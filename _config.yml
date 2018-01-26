@@ -6,7 +6,7 @@ logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "http://halestormtech.com" # the base hostname & protocol for your site
-paginate:	2 # The number of posts to show per page on your homepage
+paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
 facebook: facebook
