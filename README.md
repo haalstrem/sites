@@ -12,12 +12,6 @@ It is built using the open source [AMP Start framework](https://www.ampstart.com
 ## [Hanuman](https://samanyougarg.com/hanuman)
 ![Hanuman](/Screenshots/hanuman.jpg "Hanuman Preview")
 
-<<<<<<< HEAD
-=======
-# HI DYLANnnnnnn
-## Header 2
-### Header 3
->>>>>>> 75604d3ea53e47c5afd914bc2915a3fe926b07ba
 
 ## Features
 
